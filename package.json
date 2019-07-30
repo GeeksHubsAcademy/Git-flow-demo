@@ -1,0 +1,16 @@
+{
+  "name": "git-flow-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"live-server ."
+
+  },
+  "author": "jupegarnica",
+  "license": "ISC",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
